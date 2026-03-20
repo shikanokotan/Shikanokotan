@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Noko Shikanoko (aka. Arts Yang)
 I'm a Principal Hardware and Systems Architect at NVIDIA. 
+
 I'm the creator of the original NVIDIA Cloud Partner (NCP) Reference Designs and the Author for the NVIDIA DGX SuperPOD Reference Architecture (H200/B200/B300/GB200/GB300/VR NVL8/VR NVL72). 
 
 Prior to this role, I was Principal Product Architect and Senior Systems Solution Architect at NVIDIA. I was the responsible person for NVIDIA Cambridge-1 AI Supercomputer. 
