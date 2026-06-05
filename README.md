@@ -9,7 +9,7 @@ Prior to NVIDIA, I worked as a research staff at doctoral student at Technische 
 
 
 ### Contact:
-Name	Dr. Arts Yang
+Name	Arts Yang
 
 Email	hi@arts.moe
 
